@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaGanesh22
-- 👀 I’m interested in computational chemical engineering, reactor design and CFD
-- 🌱 I’m currently pursuing my M.Tech Chemical Engineering from the Indian Institute of Technology Jodhpur
+- 👀 I’m interested in computational chemical engineering, reactor design, CFD and process simulation
+- 🌱 I’m currently pursuing my Ph.D. ih Chemical Engineering from IIT Bombay - Monash Research Academy
 - 💞️ I’m looking to collaborate on more computational chemical engineering projects
 - 📫 How to reach me - https://linkedin.com/in/aditya-ganesh-71493a212/
 
